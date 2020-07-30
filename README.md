@@ -13,6 +13,7 @@
 *  numpy 
 *  matplotlib
 ## install packages
+---
 * pip install opencv-python
 * conda install -c anaconda -y numpy
 * conda install -c conda-forge -y matplotlib
