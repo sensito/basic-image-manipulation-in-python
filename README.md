@@ -14,5 +14,5 @@
 *  matplotlib
 ## install packages
 * pip install opencv-python
-* pip install numpy
-* pip install matplotlib
+* conda install -c anaconda -y numpy
+* conda install -c conda-forge -y matplotlib
